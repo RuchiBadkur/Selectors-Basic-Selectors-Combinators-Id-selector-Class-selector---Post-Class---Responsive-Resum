@@ -20,13 +20,13 @@ main {
     display: block;
 }
 /* more than */
-@media screen and (min-width: 674px){
+/* @media screen and (min-width: 674px){
 .main-content {
     grid-template-columns: 300px 700px;
     width: 90%;
     min-height: 1000px;
 }
-}
+} */
 /* less than */
 @media screen and (max-width: 673px){
     .main-content {
