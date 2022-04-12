@@ -20,6 +20,11 @@ main {
     display: block;
 }
 /* more than */
+@media (min-width: 579px) {
+    .main-content {
+        grid-template-columns: 300px 700px;
+    } 
+}
 /* @media screen and (min-width: 674px){
 .main-content {
     grid-template-columns: 300px 700px;
